@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow>=2.0
+shap
+scipy
+scikit-learn
+statsmodels
