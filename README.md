@@ -1,7 +1,5 @@
-# Physics-Guided Bi-LSTM for Earthquake Forecasting (Zagros-Makran)
-
 This repository contains the source code and implementation details for the paper:
-**"Physics-Guided Bi-LSTM Network with Uncertainty Quantification for Earthquake Magnitude Forecasting in the Zagros-Makran Transition Zone"**
+**"Assessing the Performance and Limitations of Physics-Guided Bi-LSTM Networks for Seismic Magnitude Forecasting: A Case Study from the Zagros-Makran Transition Zone"**
 
 ## Repository Contents
 
@@ -53,9 +51,9 @@ If you use this code or dataset in your research, please cite:
 
 ```
 @article{khalili2025hierarchical,
-  title={Physics-Guided Bi-LSTM Network with Uncertainty Quantification for Earthquake Magnitude Forecasting in the Zagros-Makran Transition Zone},
+  title={Assessing the Performance and Limitations of Physics-Guided Bi-LSTM Networks for Seismic Magnitude Forecasting: A Case Study from the Zagros-Makran Transition Zone},
   author={Khalili, Marzieh and Fotoohi, Ali},
-  journal={Computers & Geosciences (Under Review)},
+  journal={Journal of Applied Geophysics},
   year={2025}
 }
 ```
